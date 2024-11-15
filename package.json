@@ -6,7 +6,7 @@
   "scripts": {
     "start": "zadanie"
   },
-  "author": "katarzyna-da-silva",
+  "author": "katarzyna-dasilva",
   "license": "ISC",
   "dependencies": {
     "openai": "^4.72.0"
